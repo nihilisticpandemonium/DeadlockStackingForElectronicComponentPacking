@@ -3,7 +3,7 @@
   "version": "0.0.6",
   "factorio_version": "1.1",
   "title": "Deadlock Stacking For Electronic Component Packing",
-  "author": "nihilisticpandemonium",
+  "author": "nihilistzsche",
   "homepage": "",
   "dependencies": [
     "base",
